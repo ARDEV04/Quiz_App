@@ -85,7 +85,7 @@ quiz-app/
 ## Example Screenshots
 
 ### Home Screen
-![Home Screen]([home.png])
+![Home Screen](home.png)
 
 ### Question Screen
 ![Question Screen](question.png)
