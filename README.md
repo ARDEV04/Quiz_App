@@ -85,13 +85,13 @@ quiz-app/
 ## Example Screenshots
 
 ### Home Screen
-![Home Screen]([path/to/home_screen_screenshot.png](https://github.com/ARDEV04/Quiz_App/blob/main/quizapp/Screenshot%202025-01-12%20112024.png))
+![Home Screen]([home.png])
 
 ### Question Screen
-![Question Screen](path/to/question_screen_screenshot.png)
+![Question Screen](question.png)
 
 ### Results Viewer
-![Results Viewer](path/to/results_viewer_screenshot.png)
+![Results Viewer](results.png)
 
 ---
 
