@@ -1,0 +1,1 @@
+cursor.execute("SELECT username, score, date FROM scores ORDER BY date DESC")
